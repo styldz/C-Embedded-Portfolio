@@ -1,0 +1,26 @@
+# Compiled binary
+calc.exe
+
+# Object files
+*.o
+
+# Build artifacts
+*.exe
+*.out
+*.a
+*.so
+
+# Mac/Linux generated files
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+desktop.ini
+
+# Editor configs
+.vscode/
+*.code-workspace
+
+# Backup files
+*~
+*.swp
